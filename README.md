@@ -2,6 +2,10 @@
 
 ## 重要通知
 
+2018-6-15
+
+**[赠书活动获奖名单](https://github.com/SangKa/PWA-Book-CN/issues/37)出炉，恭喜拿到新书的小伙伴**
+
 2018-6-7
 
 **开放网上预售: [预售链接](https://item.jd.com/12365091.html)**
